@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+
+# Secrets - never commit these.
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+.DS_Store
+effective-tsconfig.json
